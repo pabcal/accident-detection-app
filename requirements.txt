@@ -1,4 +1,4 @@
-streamlit
-opencv-python
-inference
-roboflow
+streamlit>=1.22.0
+opencv-python>=4.7.0
+roboflow>=1.0.0
+inference>=0.0.6
